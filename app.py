@@ -1,3 +1,2 @@
-name = 'John Smith'
-age = 20
-is_new_patient = True 
+# import l1_variables
+import l2_receive_user_inputs
